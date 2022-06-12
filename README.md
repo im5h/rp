@@ -14,6 +14,6 @@
 
 示例二：
 
-　echo Hello,123 | repl [0-9] A
+　echo Hello,123 | repl [0-9]
 
 　输出：Hello,
