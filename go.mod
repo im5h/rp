@@ -1,3 +1,3 @@
-module repl
+module rp
 
 go 1.13
